@@ -8,7 +8,8 @@
 
 # 🧱 Modelo de dados
 
-'''c
+```
+c
 typedef struct {
     int  id;
     char titulo[64];
@@ -28,3 +29,4 @@ typedef struct {
     No *fim;  // cauda
     int tam;
 } Lista;
+```
