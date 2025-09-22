@@ -8,6 +8,7 @@
 
 # 🧱 Modelo de dados
 
+'''c
 typedef struct {
     int  id;
     char titulo[64];
